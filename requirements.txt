@@ -1,0 +1,14 @@
+# requirements.txt (최신 버전)
+pymysql
+sqlalchemy
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+requests
+python-dotenv
+
+# Jupyter 관련 (선택)
+jupyter
+ipykernel

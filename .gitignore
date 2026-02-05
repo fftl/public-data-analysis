@@ -1,0 +1,29 @@
+# .gitignore
+# 가상환경
+.venv/
+venv/
+env/
+
+# 환경변수
+.env
+.env.local
+
+# 주피터
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 데이터
+data/raw/*
+!data/raw/.gitkeep
+*.csv
+*.xlsx
+*.db
+
+# 시각화 결과물
+outputs/figures/*.png
+outputs/figures/*.jpg
