@@ -7,6 +7,7 @@ env/
 # 환경변수
 .env
 .env.local
+gcp-credentials.json
 
 # 주피터
 .ipynb_checkpoints/
