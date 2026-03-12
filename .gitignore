@@ -24,6 +24,7 @@ data/raw/*
 *.csv
 *.xlsx
 *.db
+tmp/
 
 # 시각화 결과물
 outputs/figures/*.png
